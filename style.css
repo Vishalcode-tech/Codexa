@@ -25,7 +25,7 @@ header{
   z-index:2;
   }
 #logo{
-    width:30%;
+    width:50vw;
     height:200px;
     object-fit:cover;
 }
