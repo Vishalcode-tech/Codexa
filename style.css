@@ -180,7 +180,7 @@ button{
 }
 .gender{
   display:flex;
-  justify-content: space-around;
+  justify-content:flex-start;
   width:100%;
 }
 .text h3{
