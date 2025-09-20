@@ -135,6 +135,7 @@ input,select{
   animation-timeline:view();
   animation-range:entry cover 40%;
   }
+  
 select{
   background:white;
   color:black;
@@ -179,9 +180,12 @@ button{
 }
 .gender{
   display:flex;
-  justify-content:flex-start;
-  width:50vw;
-  gap:10px;
+  justify-content:center;
+  width:80vw;
+}
+.male, .female{
+  position:relative;
+  right:50px;
 }
 .text h3{
    position:relative;
