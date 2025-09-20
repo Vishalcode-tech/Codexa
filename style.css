@@ -178,11 +178,6 @@ button{
 .show{
   display:block;
 }
-.gender{
-  display:flex;
-  justify-content:flex-start;
-  width:100%;
-}
 .text h3{
    position:relative;
   animation: move forwards;
