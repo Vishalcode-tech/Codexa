@@ -1,4 +1,4 @@
-* {
+tu* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -25,7 +25,7 @@ header{
   z-index:2;
   }
 #logo{
-    width:500px;
+    width:30%;
     height:200px;
     object-fit:cover;
 }
