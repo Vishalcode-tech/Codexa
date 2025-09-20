@@ -133,7 +133,7 @@ input,select{
   position:relative;
   animation: move forwards;
   animation-timeline:view();
-  animation-range:entry cover 40%;
+  animation-range:entry cover 20%;
   }
   
 select{
