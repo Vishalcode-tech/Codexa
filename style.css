@@ -24,7 +24,7 @@ header{
   top:0;
   z-index:2;
   }
-img{
+#logo{
     width:200px;
     height:200px;
     object-fit:cover;
