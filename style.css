@@ -27,7 +27,7 @@ header{
     position:relative;
     right:15px;
     width:30vw;
-    height:0px;
+    height:10px;
     object-fit:cover;
     border-radius:20px;
 }
