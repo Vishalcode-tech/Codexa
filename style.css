@@ -26,7 +26,7 @@ header{
   }
 #logo{
     width:60vw;
-    height:50vh;
+    height:10vh;
     object-fit:cover;
     border-radius:20px;
 }
