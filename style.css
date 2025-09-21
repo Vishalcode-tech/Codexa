@@ -26,8 +26,9 @@ header{
   }
 #logo{
     width:50vw;
-    height:200px;
+    height:50vh;
     object-fit:cover;
+    border-radius:20px;
 }
 .nav{
   display:flex;
