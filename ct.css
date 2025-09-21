@@ -13,7 +13,8 @@ body {
     padding: 2.5rem 2rem;
     border-radius: 18px;
     box-shadow: 0 8px 32px rgba(44, 62, 80, 0.15);
-    width: 350px;
+    width: 500px;
+    height: 800px;
     text-align: center;
     position: relative;
     animation: fadeIn 1s;
@@ -95,4 +96,5 @@ button.sending .plane {
     color: #27ae60;
     min-height: 24px;
     transition: color 0.3s;
+
 }
