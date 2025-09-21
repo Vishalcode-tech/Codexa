@@ -26,8 +26,8 @@ header{
 #logo{
     position:relative;
     right:15px;
-    width:30vw;
-    height:20px;
+    width:50vw;
+    height:10vh;
     object-fit:cover;
     border-radius:20px;
 }
