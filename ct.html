@@ -8,15 +8,17 @@
 <body>
     <div class="contact-container">
         <h2>Contact Us</h2>
-        <form id="contactForm">
+        <form id="contactForm" action="https://formsubmit.co/vishalbanthotra@gmail.com" method="POST">
+              <input type="hidden" name="_template" value="table">
+              <input type="hidden" name="_captcha" value="false">
             <div class="input-group">
-                <input type="text" id="name" placeholder="Your Name" required>
+                <input type="text" id="name" placeholder="Your Name" name="Name" required>
             </div>
             <div class="input-group">
-                <input type="email" id="email" placeholder="Your Email" required>
+                <input type="email" id="email" placeholder="Your Email" name="Email"required>
             </div>
             <div class="input-group">
-                <textarea id="message" placeholder="Your Message" required></textarea>
+                <textarea id="message" placeholder="Your Message" name="Message" required></textarea>
             </div>
             <button type="submit" id="submitBtn">
                 <span>Send</span>
@@ -27,4 +29,5 @@
     </div>
     <script src="ct.js"></script>
 </body>
+
 </html>
