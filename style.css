@@ -16,7 +16,7 @@ header{
   align-items:center;
   flex-wrap:wrap;
   width:100vw;
-  height:20vh;
+  height:auto;
   background:#f0f1f1;
   padding:0 20px;
   line-height:1.9;
