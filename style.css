@@ -151,6 +151,7 @@ select{
   animation: move forwards;
   animation-timeline:view();
   animation-range:entry cover 20%;
+  appearance:none;
 }
 label{
   font-size:14px;
