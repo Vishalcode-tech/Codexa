@@ -8,3 +8,8 @@ let btn=document.querySelector(".submit")
 button.addEventListener("click",()=>{
   nav.classList.toggle("show");
 })
+btn.addEventListener("click",()=>{
+  name="";
+  email="";
+  select="";
+})
