@@ -24,6 +24,8 @@ header{
   z-index:2;
   }
 #logo{
+    position:relative;
+    right:30px;
     width:30vw;
     height:0px;
     object-fit:cover;
